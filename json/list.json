@@ -1,4 +1,5 @@
-({
+{"carsLIST":[
+    {
     "name": "BMW X5 D",
     "brand": "BMW",
     "year": 2012,
@@ -30,7 +31,7 @@
     "name": "BMW X1",
     "brand": "BMW",
     "year": 2016,
-    "km": "	30 050 km",
+    "km": "30 050 km",
     "price": "102 000 PLN",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sodales diam magna, in elementum sem tristique nec. Nulla blandit eleifend laoreet. Donec a pulvinar metus. Vivamus placerat scelerisque quam, in condimentum ligula bibendum et. Nulla volutpat risus in ex finibus consequat. Morbi condimentum blandit hendrerit. Etiam et viverra lorem. Aenean posuere arcu quis erat placerat placerat eu id augue.",
     "image": [
@@ -238,8 +239,8 @@
     "name": "Audi Q5",
     "brand": "Audi",
     "year": 2011,
-    "km": "	130 555 km",
+    "km": "130 555 km",
     "price": "62 000 PLN",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sodales diam magna, in elementum sem tristique nec. Nulla blandit eleifend laoreet. Donec a pulvinar metus. Vivamus placerat scelerisque quam, in condimentum ligula bibendum et. Nulla volutpat risus in ex finibus consequat. Morbi condimentum blandit hendrerit. Etiam et viverra lorem. Aenean posuere arcu quis erat placerat placerat eu id augue.",
     "image": ["image/Q5a_1.jpg", "image/Q5a_2.jpg", "image/Q5a_3.jpg", "image/Q5a_4.jpg"]
-})
+}]}
